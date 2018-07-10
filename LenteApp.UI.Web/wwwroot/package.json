@@ -1,0 +1,9 @@
+{
+  "name": "wwwroot",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@material/textfield": "^0.37.0",
+    "vue-material": "^1.0.0-beta-10.2"
+  }
+}

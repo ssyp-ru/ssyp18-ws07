@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <VersionPrefix>1.0.0</VersionPrefix>
+        <VersionSuffix>dev</VersionSuffix>
+        <Version>$(VersionPrefix)-$(VersionSuffix)</Version>
+        <FileVersion>$(VersionPrefix)</FileVersion>
+        <IncludeSymbols>true</IncludeSymbols>
+        <IncludeSource>true</IncludeSource>
+        <LangVersion>7.2</LangVersion>
+        <Description>Console LenteApp UI by Sergey Laptev.</Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="../LenteApp.Impl.Artyom/LenteApp.Impl.Artyom.csproj" />
+        <ProjectReference Include="../LenteApp.Impl.Nikita/LenteApp.Impl.Nikita.csproj" />
+        <ProjectReference Include="../LenteApp.Impl.Sergey/LenteApp.Impl.Sergey.csproj" />
+    </ItemGroup>
+
+</Project>

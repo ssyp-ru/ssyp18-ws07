@@ -1,0 +1,80 @@
+﻿@page
+@using System.IO
+@using Impl.Nikita
+@using UI.Web.Pages
+@model UI.Web.Pages.IndexModel
+@using LenteApp.Impl.Sergey;
+@using LenteApp.LibraryBase;
+@{
+    string searchstring = null;
+    List<SearchResult> searchresult = new List<SearchResult>();
+    string filePath = "";
+    string bestPart = "";
+    string index = "";
+    
+    {
+        var fd = ViewContext.HttpContext.Request.Query;
+
+        if (fd.Keys.Contains("searchstring"))
+        {
+            searchstring = fd["searchstring"].ToString();
+        }
+    }
+
+    if (searchstring != null)
+    {
+        if (IndexModel.dosearch == null)
+        {
+            IndexModel.dosearch = new SergeySearch();
+        }
+        IndexModel.dosearch.Initialize();
+
+        FileStream file_flujo = new FileStream(System.IO.Path.Combine(SergeySearch.RootPath, "names of files.txt"), FileMode.Open, FileAccess.Read);
+        TextReader texto_leyendo = new StreamReader(file_flujo);
+        string nombre = texto_leyendo.ReadLine();
+        while (nombre != null)
+        {
+            IndexModel.dosearch.AddFileToIndex(nombre);
+            nombre = texto_leyendo.ReadLine();
+        }
+        searchresult = IndexModel.dosearch.DoSearch(searchstring);
+        filePath = searchresult[0].FilePath;
+        bestPart = searchresult[0].BestContentExtract;
+        index = searchresult[0].Score.ToString();
+    }
+}
+
+<div class="md-toolbar md-theme-default md-elevation-4">
+    <!--<h3 class="md-title">Default</h3>-->
+    <form method="get" action="/Index" novalidate class="md-layout" style="width: 100%;">
+        <!--<div class="md-field md-theme-default">
+            <label for="searchstring">Поисковый запрос</label>-->
+            <input id="searchstring" width="14em" name="searchstring" value="@searchstring"/>
+        <!--</div>-->
+        <button type="submit" class="md-button md-primary md-size-15">Поиск</button>
+    </form>
+</div>
+
+<div style="margin: 1em;">
+@if (!string.IsNullOrWhiteSpace(filePath))
+{
+    <md-list>
+        <md-list-item>
+            <md-icon>move_to_inbox</md-icon>
+            <span class="md-list-item-text">@filePath</span>
+        </md-list-item>
+        <md-list-item>
+            <md-icon>move_to_inbox</md-icon>
+            <span class="md-list-item-text">@bestPart</span>
+        </md-list-item>
+        <md-list-item>
+            <md-icon>move_to_inbox</md-icon>
+            <span class="md-list-item-text">@index</span>
+        </md-list-item>
+    </md-list>
+}
+else
+{
+    <p>Данные по запросу не найдены.</p>
+}
+</div>

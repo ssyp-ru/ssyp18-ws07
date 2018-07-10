@@ -1,0 +1,136 @@
+﻿7TP
+Czołg 7TP w wersji jednowieżowej
+Czołg 7TP w wersji jednowieżowej
+Dane podstawowe
+Państwo	 Polska
+Producent	Państwowe Zakłady Inżynierii (PZInż)
+Typ pojazdu	czołg lekki
+Trakcja	gąsienicowa
+Załoga	3 (dowódca-ładowniczy, kierowca, strzelec)
+Historia
+Prototypy	sierpień 1934
+Produkcja	1935–1939
+Egzemplarze	Łącznie między 132-134 pojazdy
+Dane techniczne
+Silnik	1 silnik wysokoprężny, Saurer CT1D (PZInż. 155), 6-cylindrowy rzędowy, o pojemności skokowej 7980 cm³ i mocy 100 KM (73,6 kW) przy 1800 obr./min
+Transmisja	mechaniczna
+Poj. zb. paliwa	130 l
+Pancerz	z płyt pancernych, nitowany, utwardzany powierzchniowo o grubości: 5 mm (góra tył)
+9,5 mm (dół)
+10 mm (góra przód, góra część środkowa)
+13 mm (boki, tył)
+17 mm (pionowe przednie płyty pancerne)
+wieża 15 mm (boki, tył)
+10 mm (góra)
+Długość	4,56 m
+Szerokość	2,43 m
+Wysokość	2,19 m (wersja dwuwieżowa)
+2,30 m (wersja jednowieżowa)
+Prześwit	0,381 m
+Masa	9400 kg (wersja dwuwieżowa)
+9 900 kg (wersja jednowieżowa)
+Moc jedn.	11,1 KM/t
+Nacisk jedn.	0,60 kG/cm²
+Osiągi
+Prędkość	37 km/h (po drodze) [na I biegu – 7 km/h, na II biegu – 13 km/h, na III biegu – 22 km/h, na IV biegu – 37 km/h]
+Zasięg	160 km (po drodze)
+130 km (w terenie)
+Pokonywanie przeszkód
+Brody (głęb.)	1,00 m
+Rowy (szer.)	1,80 m
+Ściany (wys.)	0,75 m
+Kąt podjazdu	36º
+Dane operacyjne
+Uzbrojenie
+wersja jednowieżowa
+1 armata czołgowa Bofors wz. 37 kal. 37 mm (zapas amunicji – 80 szt.)
+1 karabin maszynowy wz. 30 kal. 7,92 mm (zapas amunicji – 3960 szt.)
+wersja dwuwieżowa
+2 karabiny maszynowe wz. 30 kal. 7,92 mm (zapas amunicji – 6000 szt.)
+Wyposażenie
+Radiostacja 2N/C (tylko czołgi dowódców)[1]
+Użytkownicy
+ Polska,  III Rzesza,  ZSRR
+Commons	Multimedia w Wikimedia Commons
+7TP (skrót od siedmiotonowy, polski) – polski czołg lekki skonstruowany przed II wojną światową. Obok tankietek TK-3 i TKS był podstawową bronią polskich sił pancernych podczas wojny obronnej 1939.
+
+Spis treści
+1	Historia
+2	Opis
+3	Plany produkcji i dostarczania wojsku czołgów 7TP
+4	Należność wyposażenia w amunicję według norm z 1939 roku: Batalion czołgów 7TP
+5	Służba
+6	Użytkownicy
+7	Rekonstrukcja czołgu 7TP
+8	Czołg 7TP w rozrywce interaktywnej
+9	Przypisy
+10	Bibliografia
+11	Linki zewnętrzne
+Historia
+
+Jednowieżowa wersja 7TP w rzucie bocznym.
+Konstrukcja czołgu 7TP była polskim rozwinięciem brytyjskiego czołgu Vickers E, którego licencję zakupiła Polska w dwudziestoleciu międzywojennym. Czołg został zatwierdzony do produkcji wiosną 1935 roku. W porównaniu z czołgiem Vickers, 7TP miał mocniejszy silnik wysokoprężny i był pierwszym w Europie oraz jednym z pierwszych na świecie czołgów wyposażonych w tego rodzaju silnik[2] (obok czołgów japońskich tego okresu, produkowanych jednak w małych ilościach)[3]. Oprócz Polaków, silnik dieslowski docenił również ZSRR, który rozpoczął w tamtym okresie montaż czołgów BT-7M. Takie rozwiązanie było znacznie bezpieczniejsze, niż stosowane powszechnie w tamtym okresie silniki benzynowe, ze względu na mniejszą łatwopalność oleju napędowego. Zmiany układu napędowego pociągnęły za sobą zmianę sylwetki czołgu, wóz otrzymał też nieco grubszy pancerz.
+
+
+Wersja jednowieżowa 7TP.
+Pierwsze 25 czołgów wyprodukowano w przejściowym wariancie dwuwieżowym. Ostateczny wariant jednowieżowy miał w wieży opracowaną przez firmę Bofors armatę przeciwpancerną 37 mm Bofors.
+
+Brak jest pewnych danych dotyczących liczby wyprodukowanych czołgów. Podaje się często liczbę między 132-134 sztuk jako stan czołgów 7TP przed wojną. Wersji jest kilka:
+
+Według zestawienia J. Magnuskiego, wyprodukowano 132 seryjne czołgi ogółem (w tym 11 oddanych już we wrześniu 1939) oraz co najmniej 4 prototypy (ze zwykłej stali)[4]. Czołgi były produkowane przez Państwowe Zakłady Inżynierii w zakładach w Ursusie.
+Według opracowania "Wielki Leksykon Uzbrojenia Wrzesień 1939" pojazdów ogółem było 134 w tym: 109 jednowieżowych i 25 pojazdów dwuwieżowych (niektóre zostały później przebudowane na pojazdy jednowieżowe, pozostałe pełniły role pojazdów szkolnych).
+Państwowe Zakłady Inżynierii wykonały testy jednego egzemplarza 7TP (nr rejestracyjny 1766) z silnikiem CT1D. Był to wstęp do dalszych prac rozwojowych nad czołgiem 7TP. Trzeba jednak zwrócić uwagę, iż był to dalej czołg 7TP z dopiskiem "wzmocniony". W powojennej nomenklaturze przyjęło się mówić na pojazd 9TP.
+
+Opis
+W chwili wybuchu wojny polski czołg 7TP stanowił jedną z najbardziej udanych konstrukcji w zakresie broni pancernej[5]. Posiadał on szereg rozwiązań niespotykanych w innych wozach tej klasy w tamtym okresie, jak peryskop odwracalny konstrukcji Rudolfa Gundlacha umożliwiający załodze obserwację pola bitwy w zakresie 360 stopni[6] czy wysokoprężny silnik.
+
+
+Wczesna dwuwieżowa wersja czołgu 7TP oparta na modyfikacji brytyjskiego czołgu Vickers E
+Już od 1938 roku w dwuwieżowym wariancie czołgu montowano również krajowej produkcji radiostacje RKBc umożliwiające łączność na dystansie 6 km oraz jej nowocześniejszego wariantu 2N/C, który dzięki kluczowi umożliwiał utrzymanie łączności na dystansie 25 km[7]. W czołgach w wariancie jednowieżowym przewidziano specjalne miejsce na radiostację w wersji 2N/C oraz anteny nadawcze i odbiorcze. Sprzęt ten przeznaczony był dla kadry dowódczej i instalowano go w pojazdach dowódców plutonów, kompanii oraz batalionów. W sumie przed wrześniem 1939 roku ministerstwo wojny zakupiło ok. 38 sztuk radiostacji nowszego typu[1].
+
+7TP ustępował wyraźnie pod względem opancerzenia jedynie nowszym wersjom niemieckich czołgów PzKpfw III E i PzKpfw IV B-C. Były to jednak czołgi średnie o masie sięgającej 20 ton i stanowiły względnie niewielką część niemieckich sił pancernych. Mniej wyraźnie ustępował opancerzeniem także starszym wersjom tych czołgów i zaanektowanym przez Niemców czołgom czechosłowackim PzKpfw 35(t) i PzKpfw 38(t). Jego uzbrojenie w postaci armaty 37 mm było w pełni porównywalne z uzbrojeniem wymienionych czołgów, z wyjątkiem czołgu PzKpfw IV, który jednak miał krótkolufową armatę 75 mm, nieprzeznaczoną do celów przeciwpancernych. Czołgi 7TP były lepsze od niemieckich czołgów lekkich PzKpfw I i II. Mogły również skutecznie zwalczać ówczesne niemieckie czołgi średnie (PzKpfw III i IV).
+
+Według testów czołgu w instytucie w Kubince w ZSRR jesienią 1939, oceniono, że 7TP stanowi najbardziej interesujący i nowoczesny pod względem swoich cech konstrukcyjnych spośród wszystkich znanych obecnie wariantów czołgu Vickers 6-tonowego[8][9] (należy mieć przy tym na uwadze, że w ZSRR produkowano własny analogiczny czołg rozwinięty z konstrukcji Vickersa T-26, testowany w warunkach bojowych m.in. w czasie wojny domowej w Hiszpanii).
+
+Plany produkcji i dostarczania wojsku czołgów 7TP
+Koszt wyprodukowania jednego czołgu 7TP bez uzbrojenia wynosił ok. 181 500 zł, a z uzbrojeniem 231 000 zł. Koszt wystawienia jednego batalionu, który składał się z 3 kompanii tych czołgów wraz z amunicją oraz garażami wynosił 18 830 000 zł[10].
+
+Do 31 sierpnia 1939 dostarczono 112 czołgów w wersji jednowieżowej. Do 31 grudnia 1939 planowano dostarczyć kolejnych 67 czołgów, co pozwoliłoby sformować kolejny (trzeci) batalion czołgów lekkich – prawdopodobnie w Zgierzu. Do 30 kwietnia 1940 planowano dostarczyć kolejnych 121 czołgów, co pozwoliłoby sformować następny (czwarty) batalion czołgów lekkich – czołgi z silnikiem CT1D. W tym miejscu trzeba zaznaczyć, że harmonogram dostaw czołgów nie szedł w parze z harmonogramem dostaw uzbrojenia do nich – stąd liczba czołgów znacznie większa niż wymagana jako wyposażenie czterech batalionów. Do 31 lipca 1940 planowano dostarczyć kolejnych 50 czołgów, co pozwoliłoby sformować piąty i szósty batalion czołgów lekkich (czołgi z silnikami CT1D).
+
+Należność wyposażenia w amunicję według norm z 1939 roku: Batalion czołgów 7TP
+Do działa 37 mm – 4,0 JO (w tym: na wozie pancernym – 2,00 JO, wóz amunicyjny w plutonie gospodarczym batalionu – 2,00 JO); Do ckm – 4,0 JO (w tym: na wozie pancernym – 1,98 JO, w patrolu reperacyjnym – 0,02 JO, wóz amunicyjny w plutonie gospodarczym batalionu – 2,00 JO)
+
+1 JO do działa 37 mm: 40 nabojów, w tym z pociskiem przeciwpancernym – 14 nabojów, z granatem kruszącym – 26 nabojów. 1 JO do ckm: 2000 nabojów, w tym z pociskiem Sc (ciężki) – 1400 nabojów, z pociskiem P (przeciwpancerny) – 200, z pociskiem Ps (przeciwpancerno-świetlny) – 400[11].
+
+Służba
+
+Czołgi 7TP na manewrach
+
+Czołgi 7TP na Zaolziu, 1938
+
+Czołg 7TP w czasie walki w Kampanii Wrześniowej, 1939
+Czołgi 7TP w kampanii wrześniowej 1939 używane były w składzie następujących jednostek Wojska Polskiego według Wielki Leksykon Uzbrojenia Wrzesień 1939:
+
+1. Batalion Czołgów Lekkich – 56 pojazdów (w tym 7 dwuwieżowych), w tym 26 w zapasie mobilizacyjnym (tylko jednowieżowe klasy "A"), 23 jako szkolno-mobilizacyjne (jednowieżowe klasy "B") i 7 szkolnych (tylko dwuwieżowe, w tym prototypowy "Słoń" klasy "C"
+2. Batalion Czołgów Lekkich – 57 pojazdów (w tym 10 dwuwieżowych). 26 w zapasie mobilizacyjnym (tylko jednowieżowych uznanych za klasę "A"), 23 jako szkolno-mobilizacyjne (klasa "B"- w tym 2 dwuwieżowe) i 8 szkolnych (klasa "C" - tylko dwuwieżowe)
+1 Kompania Czołgów Lekkich Dowództwa Obrony Warszawy – 10 czołgów 7TP (8 dwuwieżowych, a wśród 2 jednowieżowych jeden to prototypowy "Smok"), wszystkie pojazdy widniały jako szkolne klasy "C"
+2 Kompania Czołgów Lekkich Dowództwa Obrony Warszawy – 11 czołgów 7TP jednowieżowych w trakcie prób odbiorczych (klasa "A")
+1. Batalion Czołgów Lekkich w składzie Armii Odwodowej „Prusy” brał udział w walkach odwrotowych od rejonu Tomaszowa Mazowieckiego do rejonu ujścia Pilicy do Wisły. Tam utracono większość sprzętu. Około 20 czołgów udało się wycofać i dołączono je do Warszawskiej Brygady Pancerno-Motorowej. Następnie walczyły pod Tomaszowem Lubelskim i tam uległy zniszczeniu.
+
+Po kampanii wrześniowej 1939 armia niemiecka zdobyła pewną liczbę tych maszyn. Przyjęto je do uzbrojenia Wehrmachtu jako Pzkpfw 731 (p) 7TP, aczkolwiek brak jest świadectw o ich użyciu bojowym – używane były przede wszystkim do służby okupacyjnej.
+
+Na podwoziu czołgu lekkiego 7TP opracowano również ciągnik artyleryjski C7P. W planach było również skonstruowanie na bazie czołgu 7TP cięższej wersji – 9TP (masa 10,6 – 11,2 tony, pancerz: max. 30-40 mm).
+
+Użytkownicy
+ Polska: 109 7TP jednowieżowych, 25 7TP dwuwieżowych.
+ III Rzesza: około 20 7TP jednowieżowych zdobytych w czasie kampanii wrześniowej.
+ ZSRR: co najmniej 4 7TP zdobyte w czasie kampanii wrześniowej, używane do testów[12].
+Rekonstrukcja czołgu 7TP
+Zrekonstruowane czołgi 7TP
+
+Częściowo zrekonstruowany 7TP przed Pałacem Prezydenckim w Warszawie, 2009
+ Osobny artykuł: Fundacja Wojskowości Polskiej.
+W Polsce nie zachował się ani jeden kompletny wóz tego typu. W ekspozycji Muzeum Wojska Polskiego w Warszawie są jedynie fragmenty podwozia i wieży. W 2006 roku grupa entuzjastów techniki militarnej II RP z Bielska-Białej skupiona w Fundacji Wojskowości Polskiej rozpoczęła rekonstrukcję czołgu na podstawie zachowanych planów oraz części[13]. Rekonstruktorzy sukcesywnie prezentowali efekty swoich prac podczas imprez historycznych. W 2009 roku odbyła się prezentacja częściowo zrekonstruowanego 7TP przed Pałacem Prezydenckim w Warszawie[14]. Dzięki kancelarii prezydenta RP sfinansowano rekonstrukcję układu jezdnego czołgu. Kompletna rekonstrukcja zakończona została w 2011[15].
+
+Czołg 7TP w rozrywce interaktywnej
+Czołg 7TP pojawia się w grze Panzer General na planszy „Poland” i „Warsaw”. Poza tym 7TP jest podstawową jednostką Polskich Sił Pancernych w kampanii niemieckiej gry Blitzkrieg. Jest także obecny na dwóch polskich mapach w najpopularniejszej modyfikacji – Forgotten Hope – do gry Battlefield 1942 oraz w Hearts of Iron IV wraz z jego dalszymi rozwinięciami 9TP i 10TP.

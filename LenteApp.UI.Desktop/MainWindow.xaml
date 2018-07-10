@@ -1,0 +1,42 @@
+﻿<Window xmlns="https://github.com/avaloniaui" Title="LenteApp"
+        Background="White" MinWidth="440" MinHeight="480" Width="740" Height="480">
+    <Grid MinWidth="640" MinHeight="480" VerticalAlignment="Top">
+        
+        <StackPanel Width="1000" Height="100" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#6200EE"></StackPanel>
+
+        <StackPanel>
+            <TextBox Text="{Binding SearchQuery, Mode=TwoWay}" />
+
+            <StackPanel Margin="10" HorizontalAlignment="Center" VerticalAlignment="Top" Background="White">
+                <Button Command="{Binding ResetCommand}" Margin="5" Background="#4527A0" Foreground="White">
+                    Поиск
+                </Button>
+
+                <ListBox Items="{Binding Names}" SelectedItem="{Binding SelectedName, Mode=TwoWay}"
+                         Background="Transparent" Margin="5" BorderThickness="0.2">
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Horizontal" />
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Margin="10 10 10 10" Text="{Binding}" />
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <ListBox Items="{Binding Answer}" BorderThickness="0.2"
+                         Background="Transparent" Margin="5">
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Vertical" />
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                </ListBox>
+
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>

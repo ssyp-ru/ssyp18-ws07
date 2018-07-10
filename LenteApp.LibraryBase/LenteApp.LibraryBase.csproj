@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <VersionPrefix>1.0.0</VersionPrefix>
+        <VersionSuffix>dev</VersionSuffix>
+        <Version>$(VersionPrefix)-$(VersionSuffix)</Version>
+        <FileVersion>$(VersionPrefix)</FileVersion>
+        <Authors>andrew.boyarshin</Authors>
+        <IncludeSymbols>true</IncludeSymbols>
+        <IncludeSource>true</IncludeSource>
+        <LangVersion>7.2</LangVersion>
+        <Description>Fundamental types and interfaces for search implementers to consume.</Description>
+    </PropertyGroup>
+
+</Project>

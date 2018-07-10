@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LenteApp.CUI.Nikita": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}

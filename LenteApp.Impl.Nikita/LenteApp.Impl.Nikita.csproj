@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Library</OutputType>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <VersionPrefix>1.0.0</VersionPrefix>
+        <VersionSuffix>dev</VersionSuffix>
+        <Version>$(VersionPrefix)-$(VersionSuffix)</Version>
+        <FileVersion>$(VersionPrefix)</FileVersion>
+        <Authors>andrew.boyarshin</Authors>
+        <IncludeSymbols>true</IncludeSymbols>
+        <IncludeSource>true</IncludeSource>
+        <LangVersion>7.2</LangVersion>
+        <Description>Search engine implementation by Nikita Yurikov.</Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="../LenteApp.LibraryBase/LenteApp.LibraryBase.csproj" />
+    </ItemGroup>
+
+</Project>
